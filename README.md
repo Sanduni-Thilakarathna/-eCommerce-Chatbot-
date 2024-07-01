@@ -19,10 +19,6 @@ An innovative eCommerce chatbot developed without programming using IBM Watson t
 3. **Integration**: Follow the guides for WordPress and LinkedIn integration.
 4. **Personalized Experience**: Implement real-time assistance and engagement strategies.
 
-## Contributing
 
-Feel free to fork this repository and submit pull requests. For major changes, please open an issue to discuss what you would like to change.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
