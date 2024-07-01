@@ -1,2 +1,28 @@
-# -eCommerce-Chatbot-
-Developed an innovative eCommerce chatbot without programming, powered by IBM Watson tools. 🚀💡 With a focus on simplicity and efficiency, this chatbot brings a personalized and interactive shopping experience to your fingertips. 🛍💬
+# eCommerce Chatbot
+
+An innovative eCommerce chatbot developed without programming using IBM Watson tools. This project focuses on creating a personalized and interactive shopping experience, integrating the chatbot with WordPress, and enhancing LinkedIn profiles with the chatbot interface.
+
+## Project Structure
+
+- **Research and Planning**: Contains research findings and planning documents.
+- **Objectives**: Defines the objectives of the chatbot.
+- **Dialog Creation**: Contains dialog flow diagrams and scripts.
+- **Small Questions, Big Impact**: Simplified dialog structure documentation.
+- **WordPress Integration**: Guide and code snippets for WordPress integration.
+- **LinkedIn Integration**: Guide and code for LinkedIn profile enhancement.
+- **Personalized Shopping Experience**: Methods and strategies for real-time assistance and user engagement.
+
+## Getting Started
+
+1. **Research and Planning**: Review the research and planning documents.
+2. **Dialog Creation**: Check the dialog flow and scripts.
+3. **Integration**: Follow the guides for WordPress and LinkedIn integration.
+4. **Personalized Experience**: Implement real-time assistance and engagement strategies.
+
+## Contributing
+
+Feel free to fork this repository and submit pull requests. For major changes, please open an issue to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
